@@ -1,0 +1,16 @@
+{
+  "appointments": [
+    {
+      "time": "08:00",
+      "type": "in"
+    },
+    {
+      "time": "12:00",
+      "type": "ou"
+    },
+    {
+      "time": "13:00",
+      "type": "in"
+    }
+  ]
+}
